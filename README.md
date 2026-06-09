@@ -162,9 +162,8 @@ credit-risk-npa-analysis/
 ├── npa dataset.csv              # Dataset
 ├── assets/                      # Screenshots and visual exports (see below)
 │   ├── dashboard_overview.png
-│   ├── default_rate_by_loan_type.png
-│   ├── credit_score_distribution.png
-│   └── collateral_coverage_heatmap.png
+│   ├── risk_distribution_credit_score_vs_repayment.png
+│   ├── credit_score_distribution_loan_status.png
 └── README.md
 ```
 
