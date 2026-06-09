@@ -110,9 +110,8 @@ The project follows a three-layer analytical stack:
 | `SQL_Final_File.sql` | All SQL queries for data exploration, segmentation, and loss estimation |
 | `Credit_Risk_Analysis.ipynb` | Python notebook for EDA, feature engineering, and PD modeling |
 | `Credit_Risk_Analysis.twb` | Tableau workbook with interactive credit risk dashboard |
+| `npa_dataset.csv` | Dataset used |
 | `README.md` | Project documentation (this file) |
-
-> **Note:** The raw dataset (`npa_dataset.csv`) is not included in this repository. See the [Dataset section](#-database--dataset-explanation) above for schema and a sample snippet.
 
 ---
 
@@ -160,6 +159,7 @@ credit-risk-npa-analysis/
 ├── SQL_Final_File.sql           # SQL analysis scripts
 ├── Credit_Risk_Analysis.ipynb   # Python EDA & modeling notebook
 ├── Credit_Risk_Analysis.twb     # Tableau dashboard workbook
+├── npa dataset.csv              # Dataset
 ├── assets/                      # Screenshots and visual exports (see below)
 │   ├── dashboard_overview.png
 │   ├── default_rate_by_loan_type.png
